@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Which country is hosting the 2024 Cricket World Cup?",
+      option1: "India",
+      option2: "Australia",
+      option3: "South Africa",
+      option4: "West Indies",
+      ans: 4,
+    },
+    {
+      question: "Who is the highest run-scorer in the 2024 Cricket World Cup?",
+      option1: "Virat Kohli",
+      option2: "Rahmanullah Gurbaz",
+      option3: "Babar Azam",
+      option4: "Rohit Sharma",
+      ans: 2,
+    },
+    {
+      question: "Which stadium hosted the final match of the 2024 Cricket World Cup?",
+      option1: "Kensington Oval Barbados",
+      option2: "Sir Vivian Richards Stadium",
+      option3: "Brian Lara Cricket Academy",
+      option4: "Providence Stadium",
+      ans: 1,
+    },
+    {
+      question: "Who was named the Player of the Tournament for the 2024 Cricket World Cup?",
+      option1: "Anrich Nortje",
+      option2: "Virat Kohli",
+      option3: "Jasprit Bumrah",
+      option4: "Heinrich Klaasen",
+      ans: 3,
+    },
+    {
+      question: "Which player hit the most sixes in the 2024 Cricket World Cup?",
+      option1: "Suryakumar Yadav",
+      option2: "Travis Head",
+      option3: "Rahmanullah Gurbaz",
+      option4: "Nicholas Pooran",
+      ans: 4,
+    },
+  ];
