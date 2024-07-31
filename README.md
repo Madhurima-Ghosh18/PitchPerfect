@@ -1,4 +1,4 @@
-# React + Vite
+# PitchPerfect
 
 PitchPerfect is a simple Quiz Application
 
