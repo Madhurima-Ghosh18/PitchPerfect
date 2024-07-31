@@ -1,6 +1,6 @@
 # React + Vite
 
-A simple Quiz Application
+PitchPerfect is a simple Quiz Application
 
 ### install dependencies
 
