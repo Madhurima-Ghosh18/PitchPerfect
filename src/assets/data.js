@@ -16,7 +16,7 @@ export const data = [
       ans: 2,
     },
     {
-      question: "Which stadium hosted the final match of the 2024 Cricket World Cup?",
+      question: "Which stadium hosted the final match of 2024 Cricket World Cup?",
       option1: "Kensington Oval Barbados",
       option2: "Sir Vivian Richards Stadium",
       option3: "Brian Lara Cricket Academy",
@@ -24,7 +24,7 @@ export const data = [
       ans: 1,
     },
     {
-      question: "Who was named the Player of the Tournament for the 2024 Cricket World Cup?",
+      question: "Who was the Player of the Tournament of 2024 Cricket World Cup?",
       option1: "Anrich Nortje",
       option2: "Virat Kohli",
       option3: "Jasprit Bumrah",
